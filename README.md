@@ -17,7 +17,7 @@ I'm a Front End Developer  👨‍💻, focusing on React :fire:
 
 ### Some Stats About Raghav (Public Only)
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=jdelapena-ii-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=jdelapena-ii&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
