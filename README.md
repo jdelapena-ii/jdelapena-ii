@@ -1,3 +1,4 @@
+<!--
 I'm a Front End Developer  👨‍💻, focusing on React :fire:
 
 - 🔭 I’m currently working for H.O.V.
@@ -7,7 +8,7 @@ I'm a Front End Developer  👨‍💻, focusing on React :fire:
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
-
+-->
 
 ### Some Stats About Me (Public Only)
 <p align="center" >
