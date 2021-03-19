@@ -4,7 +4,7 @@
 
 I'm a web developer who is passionate about writing code, writing articles, solving problems, and building software.
 
-- 🔭 I’m working as a Front End Developer.
+- 🔭 I’m focusing as a Front End Developer.
 - 👯 I’m writing codes in React, TypeScript, & Tailwind.
 - 📚 Outside work, I love to read nonfiction books. 
 - 📫 Reach me out through my personal [Contact Form](https://jedodels.netlify.app/contact/)
